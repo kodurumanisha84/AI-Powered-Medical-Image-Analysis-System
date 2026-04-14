@@ -55,8 +55,7 @@ This system can be used in:
 
 ```
 data/
-│
-├── train/
+|
 │   ├── NORMAL/
 │   ├── PNEUMONIA/
 |
